@@ -12,5 +12,6 @@ INSTRUCTION
 3) Copy all files from this repo to /ELK_Files (Can be anywhere as long as its called ELK_Files and contains all files from this repo)
 
 4) Change all of the localhost in elasticsearch.yml and kibana.yml with your host IP
+5) Change the 
 
 4) Run Auto_Deploy_ELK.sh
