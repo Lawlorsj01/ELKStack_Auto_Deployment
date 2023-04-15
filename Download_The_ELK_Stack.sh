@@ -16,4 +16,4 @@ wget https://raw.githubusercontent.com/Lawlorsj01/ELKStack_Auto_Deployment/main/
 
 wget https://raw.githubusercontent.com/Lawlorsj01/ELKStack_Auto_Deployment/main/kibana.yml
 
-./Auto_Deploy_The_ELK_Stack.sh
+echo "Download Finished"
